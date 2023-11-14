@@ -64,7 +64,7 @@
     "husky": "^8.0.2",
     "mini-svg-data-uri": "^1.4.4",
     "postcss": "^8.4.31",
-    "prettier": "^3.0.3",
+    "prettier": "^3.1.0",
     "prettier-plugin-tailwindcss": "^0.5.7",
     "semantic-release": "^22.0.7",
     "tailwindcss": "^3.3.5",
