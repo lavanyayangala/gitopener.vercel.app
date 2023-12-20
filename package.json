@@ -67,7 +67,7 @@
     "prettier": "^3.1.1",
     "prettier-plugin-tailwindcss": "^0.5.9",
     "semantic-release": "^22.0.12",
-    "tailwindcss": "^3.3.7",
+    "tailwindcss": "^3.4.0",
     "zod": "^3.22.4"
   }
 }
